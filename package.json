@@ -1,0 +1,19 @@
+{
+  "name": "rtsupportclient",
+  "version": "1.0.0",
+  "description": "Real Time Support Frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Adegboyega",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-loader": "^5.3.3",
+    "react": "^15.6.1",
+    "webpack": "^3.0.0"
+  },
+  "dependencies": {
+    "react-dom": "^15.6.1"
+  }
+}
